@@ -37,7 +37,7 @@ A social media web application built with **Laravel** that mimics core features 
    cd laravel-twitter-clone
 
 2. Install dependencies:
- ```bash
+ ``bash
    composer install
    npm install 
 
