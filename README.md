@@ -36,12 +36,13 @@ A social media web application built with **Laravel** that mimics core features 
    git clone https://github.com/Juliettelfkk/laravel-twitter-clone.git
    cd laravel-twitter-clone
 
-Install dependencies:
+2. Install dependencies:
+ ```bash
    composer install
    npm install 
 
-Create .env and setup your database
-Update .env with your DB credentials and run migrations
+3. Create .env and setup your database
+4. Update .env with your DB credentials and run migrations
 
     php artisan migrate
     php artisan serve
